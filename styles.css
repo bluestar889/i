@@ -1,0 +1,35 @@
+body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(35, 35, 35);
+    background-color: #b5b8b7;
+}
+li {font-style: italic;
+    font-weight: normal;
+    background-color: #b5b8b7;
+    color: #283c34;
+
+}
+h1{font-family:cursive;
+    font-size: 50px;
+    color:  #b5b8b7;
+    background-color: rgb(1, 11, 8);
+    text-align: center;
+    }
+    
+
+p{text-align: center;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+a{color: #1f2b26;
+    
+}
+a:hover{text-decoration: underline;
+font-weight: bold;}
+
+.resumeListHeading {font-weight: bold;
+    font-style: normal;
+}
+.homebg {background-image: url(../images/IMG_0026.JPG);
+background-position: top right;}
